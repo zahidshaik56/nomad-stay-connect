@@ -1,5 +1,5 @@
-
 import PropertyCard from "./PropertyCard";
+import { Button } from "@/components/ui/button";
 
 const PropertyGrid = () => {
   const sampleProperties = [
